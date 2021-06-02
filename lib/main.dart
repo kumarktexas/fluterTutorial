@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Material(
         child: Center(
           child: Container(
-            child: Text("Welcome to flutter training"),
+            child: Text("Welcome to flutter training, and it begins"),
           ),
         ),
       ),
